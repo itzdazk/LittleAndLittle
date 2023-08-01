@@ -1,0 +1,10 @@
+:root {
+  --nav-color: #ed7200;
+  --background-color: radial-gradient(
+    97.91% 60.14% at 50% 50%,
+    #ffdb7e 0%,
+    #ff7a00 100%
+  );
+
+  --background-color-child: linear-gradient(180deg, #ffb648 0%, #ffb648 100%);
+}
